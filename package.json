@@ -1,0 +1,11 @@
+{
+  "name": "loan-calculator",
+  "version": "1.0.0",
+  "description": "App for calculating loan outcome in the future/overtime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adebayo Ilerioluwa",
+  "license": "MIT"
+}
